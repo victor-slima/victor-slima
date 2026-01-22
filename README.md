@@ -1,7 +1,10 @@
 ## Hey, I'm Victor 👋
-Backend Developer based in Brazil
+Junior Backend Developer based in Brazil 🇧🇷  
 
-[![Profile](https://komarev.com/ghpvc/?username=SEU_USERNAME&message=Visits&color=33B98A)](https://github.com/SEU_USERNAME)
+I’m a **Junior Backend Developer** focused on building backend applications with **Java** and **Spring Boot**.  
+I’m constantly learning and improving my skills in **REST APIs**, **microservices**, **testing**, and **clean code practices**.
+
+[![Profile](https://komarev.com/ghpvc/?username=victor-slima&message=Visits&color=33B98A)](https://github.com/victor-slima)
 
 <h3>Things I code with</h3>
 
@@ -22,7 +25,7 @@ Backend Developer based in Brazil
 
   <div>
     <p>Testing</p>
-    <img alt="JUnit" src="https://img.shields.io/badge/JUnit5-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white" />
+    <img alt="JUnit 5" src="https://img.shields.io/badge/JUnit5-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white" />
     <img alt="Mockito" src="https://img.shields.io/badge/Mockito-%23000000.svg?style=for-the-badge&logo=java&logoColor=white" />
     <img alt="TDD" src="https://img.shields.io/badge/TDD-%23007ACC.svg?style=for-the-badge&logo=checkmarx&logoColor=white" />
   </div>
@@ -36,11 +39,11 @@ Backend Developer based in Brazil
 </div>
 
 ### 📫 How to reach me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=blue)](SEU_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/victor-slima/)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&count_private=true&show_icons=true&theme=gotham" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=victor-slima&count_private=true&show_icons=true&theme=gotham" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=gotham" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-slima&layout=compact&theme=gotham" />
 </a>
